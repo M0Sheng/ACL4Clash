@@ -1,5 +1,5 @@
 # 内容：WhiteList
-# 数量：34条
+# 数量：35条
 DOMAIN-KEYWORD,xbox
 DOMAIN-SUFFIX,cn.download.nvidia.com
 DOMAIN-SUFFIX,gcvchp.com
@@ -34,3 +34,4 @@ DOMAIN-SUFFIX,2kcoretech.online
 DOMAIN-SUFFIX,zerotier.com
 DOMAIN-SUFFIX,teams.microsoft.com
 DOMAIN-SUFFIX,teams.events.data.microsoft.com
+DOMAIN-KEYWORD,epicgames
