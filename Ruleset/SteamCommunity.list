@@ -1,3 +1,7 @@
 # 内容：SteamCommunity
-# 数量：1条
+# 数量：5条
 DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,www.steamcommunity.com
+DOMAIN-SUFFIX,store.steampowered.com
+DOMAIN-SUFFIX,api.steampowered.com
+DOMAIN-SUFFIX,steam-chat.com
